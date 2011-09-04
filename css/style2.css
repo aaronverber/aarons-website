@@ -1,0 +1,196 @@
+body{
+background: #333;
+color:#eee;
+}
+
+#main{
+background: transparent url(../images/skin2/bg.jpg) no-repeat 0px 0px;
+}
+
+.box{
+border-right:1px solid #555;
+}
+
+/*********************************************************************************************************
+2.) Head Area: 
+**********************************************************************************************************/	
+#head{
+border-bottom:1px solid #555;
+}
+
+#top .logo a{
+background: transparent url(../images/skin2/logo.png) repeat-x top left;
+}
+
+
+/*image slider*/
+#featured{
+border-bottom:1px solid #555;
+}
+
+.item, .wrapper img{
+border:1px solid #555;
+background: #222;
+}
+
+.additional_info{
+border-bottom:1px solid #555;
+}
+.additional_info h2 a{
+color:#222;
+}
+
+.additional_info h2 a:hover{
+color:#5a5a5a;
+}
+
+#twitterbox{
+background: transparent url(../images/skin2/twitter.png) no-repeat 5px 10px;
+}
+
+#top #nav li ul a{
+background: #333;
+border:1px solid #555;
+border-top:none;
+}
+
+#top #nav li ul a:hover{
+background:#292929;
+}
+
+#top #nav li ul ul {
+border-top:1px solid #555;
+}
+
+/*********************************************************************************************************
+3.) Additional info Area: 
+**********************************************************************************************************/	
+.get_in_touch{
+background: transparent url(../images/skin2/button_get_in_touch.png) no-repeat top left;
+}
+
+.get_in_touch:hover{
+background: transparent url(../images/skin2/button_get_in_touch.png) no-repeat bottom left;
+}
+
+/*********************************************************************************************************
+4.) Content Area: 
+**********************************************************************************************************/	
+.entry-head{
+color:#999;
+}
+
+.entry-head a{
+color:#777;
+}
+
+.entry li {
+border-bottom:1px solid #555;
+}
+
+.entry ul, .entry ol {
+border-top:1px solid #555;
+}
+
+
+
+
+/*********************************************************************************************************
+5.) Sidebar area
+**********************************************************************************************************/	
+#top #latest_news a, .widget a{
+border-bottom:1px solid #555;
+}
+
+#top #latest_news a:hover, .widget a:hover{
+background-color: #292929;
+color:#fff;
+}
+
+.meta_sub{
+border-right:1px solid #555;
+}
+
+/*generic*/
+blockquote {
+color:#fff;
+}
+
+blockquote {
+border-left:3px solid #fff;
+}
+.box strong{
+color:#fff;
+}
+
+.more-link {
+background:transparent url(../images/skin2/dot.png) no-repeat scroll 0px 6px;
+color:#f7941d;
+}
+
+/*generic color*/
+
+h1 a, h2 a, h3 a, h4 a, h5 a h6 a{
+color:#fff;
+}
+
+a{
+color:#fff;
+}
+
+a:hover{
+color:#ddd;
+}
+
+#top a:hover img{
+border:1px solid #aaa;
+}
+
+
+
+h1,h2,h3,h4,h5,h6, legend{
+color:#eee;
+}
+
+.meta{
+color:#999;
+}
+	
+
+
+	
+/*CONTACT FORM*/	
+.valid .text_input, .valid .text_area{border:1px solid #70A41B;} /*#70A41B*/
+.error .text_input, .error .text_area{border:1px solid #EE2A00;}
+.ajax_alert .text_input, .ajax_alert .text_area{border:1px solid #ffb628;}
+
+
+#s, .text_input, .text_area, textarea, #commentform input{
+	border:1px solid #ababab;
+	color:#666;
+	}
+
+
+#send, #top #submit{
+	border:1px solid #ababab;
+	background-color:#f7941d;
+	cursor:pointer;
+	color:#fff;
+	
+	}
+	
+#send:hover, #top #submit:hover{
+	background-color:#fff;
+	color:#666;
+	}
+	
+#searchsubmit{
+background: transparent url(../images/skin2/button_search.png) no-repeat left top;
+}
+#searchsubmit:hover{
+background: transparent url(../images/skin2/button_search.png) no-repeat left bottom;
+}
+
+#footer{
+border-top:1px solid #555; 
+}
