@@ -108,7 +108,7 @@ border-right:0;
 2.) Head Area: 
 **********************************************************************************************************/	
 #head{
-height:135px;
+height:160px;
 margin:0 auto;
 position:relative;
 width:940px;
@@ -116,12 +116,10 @@ z-index:5;
 }
 
 .logo, .logo a{
+margin: 0px auto;
 display:block;
-height:95px;
-left:0px;
-position:absolute;
-top:5px;
-width:278px;
+height:120px;
+width:500px;
 }
 
 #top .logo a{
@@ -268,7 +266,7 @@ z-index: 2;
 
 #top #nav{
 left:2px;
-top:89px;
+top:0px;
 }
 
 
