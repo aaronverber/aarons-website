@@ -26,7 +26,7 @@ position:relative;
 }
 
 #top{
-width:940px;
+width:900px;
 margin:0 auto;
 position:relative;
 clear: both;
@@ -37,11 +37,11 @@ clear:both;
 position: relative;
 padding:20px 0 0 0px;
 float:left;
-width:940px;
+width:900px;
 }
 
 #footer{
-width:940px;
+width:900px;
 margin:15px auto 0 auto;
 position:relative;
 clear: both;
@@ -54,8 +54,8 @@ clear:both;
 position:relative;
 float:left;
 padding-bottom:20px;
-width:940px!important;
-width:941px;
+width:900px!important;
+width:900px;
 }
 
 .wrapper_side{
@@ -90,7 +90,7 @@ width:614px;
 }
 
 #top .box_big{
-width:940px;
+width:900px;
 border:none;
 }
 
@@ -108,15 +108,16 @@ border-right:0;
 2.) Head Area: 
 **********************************************************************************************************/	
 #head{
-height:160px;
+height:130px;
 margin:0 auto;
 position:relative;
-width:940px;
+width:900px;
 z-index:5;
 }
 
 .logo, .logo a{
-margin: 0px auto;
+margin: 5px 20px 0 0;
+position: absolute;
 display:block;
 height:120px;
 width:500px;
@@ -156,7 +157,7 @@ z-index: 3;
 }
 
 #top .featured_item_active img{
-width:600px;
+width:900px;
 }
 
 #top .featured_item_last, #top .featured_item_upcoming{
@@ -265,13 +266,13 @@ z-index: 2;
 
 
 #top #nav{
-left:2px;
-top:0px;
+left:246px;
+top:95px;
 }
 
 
 #nav, #nav ul{
-margin:0;
+margin: 0;
 padding:0;
 list-style-type:none;
 list-style-position:outside;
@@ -288,12 +289,12 @@ display:inline;
 padding:0;
 text-decoration:none;
 text-align:center;
-line-height:28px; 
+line-height:35px; 
 outline:none;
 z-index:35;
 position:relative;
 float:left;
-margin: 0 30px 0 0;
+margin: 0px 30px 0 0;
 font-size: 12px;
 }
 
@@ -313,7 +314,7 @@ line-height:33px;
 float:left;
 position:relative;
 z-index:20;
-margin-top:11px;
+margin-top:0px;
 }
 
 #top #nav li li{
@@ -325,7 +326,7 @@ margin-top:0;
 display:none;
 left:-19px;
 position:absolute;
-top:35px;
+top:32px;
 width:172px;
 
 }
